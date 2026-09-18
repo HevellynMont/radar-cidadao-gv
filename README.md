@@ -28,7 +28,7 @@ Além disso, a plataforma disponibiliza exportação de relatórios em planilha 
 - Hospedagem Backend: Render (Web Service - Free Tier)
 - Frontend: Angular + TypeScript + Leaflet.js (Mapas interativos com OpenStreetMap)
 - Hospedagem Frontend: Vercel (Free Tier)
-- Banco de Dados & Autenticação: PostgreSQL hospedado na Plataforma Aiven (Free Tier)
+- Banco de Dados & Autenticação: MySQL hospedado na Plataforma Aiven (Free Tier)
 - Componente de IA: API do GroqCloud (Modelo Llama 3)
 - Acesso para Órgãos Públicos: Endpoints REST / Exportação nativa em Excel (.xlsx) / CSV
 
