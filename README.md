@@ -24,13 +24,13 @@ Além disso, a plataforma disponibiliza exportação de relatórios em planilha 
 
 
 ## Stack Tecnológica Consolidada
-Backend: Java com Spring Boot 3 (API REST, Spring Data JPA e suporte a Apache POI para exportação de dados)
-Hospedagem Backend: Render (Web Service - Free Tier)
-Frontend: Angular + TypeScript + Leaflet.js (Mapas interativos com OpenStreetMap)
-Hospedagem Frontend: Vercel (Free Tier)
-Banco de Dados & Autenticação: PostgreSQL hospedado no Supabase (Free Tier)
-Componente de IA: API do GroqCloud (Modelo Llama 3)
-Acesso para Órgãos Públicos: Endpoints REST / Exportação nativa em Excel (.xlsx) / CSV
+- Backend: Java com Spring Boot 3 (API REST, Spring Data JPA e suporte a Apache POI para exportação de dados)
+- Hospedagem Backend: Render (Web Service - Free Tier)
+- Frontend: Angular + TypeScript + Leaflet.js (Mapas interativos com OpenStreetMap)
+- Hospedagem Frontend: Vercel (Free Tier)
+- Banco de Dados & Autenticação: MySQL hospedado na Plataforma Aiven (Free Tier)
+- Componente de IA: API do GroqCloud (Modelo Llama 3)
+- Acesso para Órgãos Públicos: Endpoints REST / Exportação nativa em Excel (.xlsx) / CSV
 
 ## Checklist de Entregas(C1, C2 e C3):
 ### C1 — Planejamento e Escopo (Prazo: 18/09/2026)
