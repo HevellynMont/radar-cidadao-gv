@@ -1,1 +1,0 @@
-Ricardo, suba os documentos referentes à primeira entrega, C1, nessa pasta. Na entrega do AVA, informe que os arquivos estão dentro dessa pasta, para que o professor tenha ciência. Após a leitura pode estar apagando esse arquivo do projeto.
